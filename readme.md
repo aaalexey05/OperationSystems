@@ -65,10 +65,3 @@ pip install -r requirements.txt
 ```bash
 python main.py
 ```
-
-## Структура проекта
-```.
-├── main.py                # Главный файл с логикой приложения
-├── requirements.txt       # Файл зависимостей
-└── README.md              # Этот файл
-```
